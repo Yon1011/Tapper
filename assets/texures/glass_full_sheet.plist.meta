@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "c88e5060-7790-4ca3-a7c5-842301d79774",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "15500": {
+      "importer": "sprite-frame",
+      "uuid": "c88e5060-7790-4ca3-a7c5-842301d79774@15500",
+      "displayName": "",
+      "id": "15500",
+      "name": "tile000",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 158,
+        "height": 295,
+        "rawWidth": 158,
+        "rawHeight": 295,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dad9035d-4083-4d61-98e5-f9f079134aff@6c48a",
+        "atlasUuid": "c88e5060-7790-4ca3-a7c5-842301d79774"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f32b1": {
+      "importer": "sprite-frame",
+      "uuid": "c88e5060-7790-4ca3-a7c5-842301d79774@f32b1",
+      "displayName": "",
+      "id": "f32b1",
+      "name": "tile001",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 158,
+        "trimY": 0,
+        "width": 157,
+        "height": 295,
+        "rawWidth": 157,
+        "rawHeight": 295,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dad9035d-4083-4d61-98e5-f9f079134aff@6c48a",
+        "atlasUuid": "c88e5060-7790-4ca3-a7c5-842301d79774"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "glass_full_sheet.png",
+    "format": 3,
+    "uuid": "c88e5060-7790-4ca3-a7c5-842301d79774",
+    "textureUuid": "dad9035d-4083-4d61-98e5-f9f079134aff@6c48a"
+  }
+}
